@@ -1,7 +1,7 @@
 # Flutter Basic Training
 
 ## Introduction
-This is the Flutter basic document that builds on the main Flutter Official Docs and the writer's views on issues in Flutter.
+This is the Flutter basic document that builds on the main Flutter Official Docs and the writer's views on issues in Flutter. This document focus on Flutter Mobile
 
 ## Content
 All content will be updated in [Wiki](https://github.com/truyenjc/FlutterBasicTraining/wiki/Home).
